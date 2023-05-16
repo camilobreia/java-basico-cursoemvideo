@@ -15,7 +15,7 @@ public class TiposPrimitivos {
 
     // System.out.printf("A nota de %s é %.2f", nome, nota); //SOUT formatado (o número equivale a quantidade de casa decimais)
 
-    System.out.format("A nota de %s é de %.3f", nome, nota); //mesma coisa que o printf
+    System.out.format("A nota de %s é de %.2f \n", nome, nota); //mesma coisa que o printf
 
     }
 }
